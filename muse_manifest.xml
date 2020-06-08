@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://exean1.github.io" resolutions="1x" timestamp="1591645276542">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://exean1.github.io" resolutions="1x" timestamp="1591646681108">
   <folder name="css">
     <file name="site_global.css" crc="417421671"/>
+    <file name="extras.css" crc="3817482746" ref="extras"/>
     <file name="index.css" crc="3938924835" ref="index"/>
-    <file name="extras.css" crc="250138466" ref="extras"/>
   </folder>
   <folder name="assets">
     <file name="melt.zip" crc="492207428" seo="true" mt="1591643320000"/>
@@ -21,10 +21,10 @@
     <file name="ico-open-u494-r-fr.png" crc="3982211474" ref="index"/>
     <file name="fgtile.jpg" crc="3846356794" ref="index"/>
     <file name="bgtile.jpg" crc="154919187" ref="index"/>
-    <file name="ico-open-u616-fr.png" crc="519175195" ref="extras"/>
-    <file name="ico-open-u616-r-fr.png" crc="3880366078" ref="extras"/>
+    <file name="ico-open-u616-fr.png" crc="108345733" ref="extras"/>
+    <file name="ico-open-u616-r-fr.png" crc="4062364404" ref="extras"/>
     <file name="bg_2.jpg" crc="134176580" ref="extras"/>
   </folder>
   <file name="index.html" crc="4174579043" seo="true" mt="1591645264093" redirect="true"/>
-  <file name="extras.html" crc="3772532622" seo="true" mt="1591645264094" redirect="true"/>
+  <file name="extras.html" crc="3843705940" seo="true" mt="1591646662721" redirect="true"/>
 </manifest>
