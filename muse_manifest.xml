@@ -1,30 +1,34 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://exean1.github.io" resolutions="1x" timestamp="1591646681108">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://exean1.github.io" resolutions="1x" timestamp="1595319598830">
   <folder name="css">
-    <file name="site_global.css" crc="417421671"/>
-    <file name="extras.css" crc="3817482746" ref="extras"/>
-    <file name="index.css" crc="3938924835" ref="index"/>
+    <file name="site_global.css" crc="4279244738"/>
+    <file name="index.css" crc="206294590" ref="index"/>
+    <file name="extras.css" crc="3889858378" ref="extras"/>
+    <file name="isz.css" crc="4239873993" ref="isz"/>
   </folder>
   <folder name="assets">
     <file name="melt.zip" crc="492207428" seo="true" mt="1591643320000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:extras"/>
-    <file name="museutils.js" crc="163421577" ref="index:extras"/>
-    <file name="whatinput.js" crc="86476730" ref="index:extras"/>
-    <file name="museconfig.js" crc="168988563" ref="index:extras"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:extras"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:extras"/>
-    <file name="require.js" crc="244322403" ref="index:extras"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:extras:isz"/>
+    <file name="museutils.js" crc="163421577" ref="index:extras:isz"/>
+    <file name="whatinput.js" crc="86476730" ref="index:extras:isz"/>
+    <file name="museconfig.js" crc="168988563" ref="index:extras:isz"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:extras:isz"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:extras:isz"/>
+    <file name="require.js" crc="244322403" ref="index:extras:isz"/>
   </folder>
   <folder name="images">
     <file name="ico-open-u494-fr.png" crc="169910702" ref="index"/>
     <file name="ico-open-u494-r-fr.png" crc="3982211474" ref="index"/>
     <file name="fgtile.jpg" crc="3846356794" ref="index"/>
     <file name="bgtile.jpg" crc="154919187" ref="index"/>
-    <file name="ico-open-u616-fr.png" crc="108345733" ref="extras"/>
-    <file name="ico-open-u616-r-fr.png" crc="4062364404" ref="extras"/>
-    <file name="bg_2.jpg" crc="134176580" ref="extras"/>
+    <file name="ico-open-u616-fr.png" crc="108345733" ref="extras:isz"/>
+    <file name="ico-open-u616-r-fr.png" crc="4062364404" ref="extras:isz"/>
+    <file name="bg_2.jpg" crc="134176580" ref="extras:isz"/>
+    <file name="wheel.png" crc="296844157" seo="true" ref="isz"/>
+    <file name="truck.png" crc="3908114336" seo="true" ref="isz"/>
   </folder>
-  <file name="index.html" crc="4174579043" seo="true" mt="1591645264093" redirect="true"/>
-  <file name="extras.html" crc="3843705940" seo="true" mt="1591646662721" redirect="true"/>
+  <file name="index.html" crc="332829311" seo="true" mt="1595319588013" redirect="true"/>
+  <file name="extras.html" crc="3941287384" seo="true" mt="1595319305908" redirect="true"/>
+  <file name="isz.html" crc="4280502273" seo="true" mt="1595319305918" redirect="true"/>
 </manifest>
